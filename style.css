@@ -1,0 +1,28 @@
+body{
+    background-image: url(wallpaper.jpg);
+    background-repeat: no-repeat ;
+    height: 100vh;
+    background-size: 100% 1000px;
+    background-image: 100%;
+
+}
+h1{
+    text-align: center;
+    margin-top:0; 
+    padding: 10px;
+    color:whitesmoke;
+    
+}
+.register{
+    color: beige;
+    border-spacing: 30px;
+}
+.reg{
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 15px;
+}
+.form
+{
+    padding:0px;
+}
